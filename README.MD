@@ -1,9 +1,9 @@
-<!-- <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/thalef/618ef18e3bbb7cdfd200f3a4fc1aabc6/raw/201d47c76006c99fe0dc55ea92e76bdca5537f08/githubcard.svg"/> -->
+
 <h1 align="left">Fontos Soluções</h1>
 
 <br>
 
-- FullStack Developer
+- Software house | Fábrica de software
 - https://www.fontos.com.br
 
 <br>
@@ -53,26 +53,3 @@
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=ubuntu)&nbsp;
 
 
-
-
-
-<!-- <br><br> -->
-
-<!-- ## ⚙️ &nbsp;GitHub Analytics
-
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=thalef&show_icons=true&theme=vision-friendly-dark" alt="thalef's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalef&layout=compact&theme=vision-friendly-dark" alt="thalef's most languages"/>
-</p> -->
-
-<br><br>
-<!-- 
-## Social links 
-<p align="left" style="background:yellow">
-<a href="https://twitter.com/thalef_carvalho" target="_blank">
- Twitter
-</a>
-<a href="https://linkedin.com/in/thiago-carvalho-308076205" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-</p> -->
