@@ -1,6 +1,6 @@
 
 <p align="center">
-  <a href="https://www.fontos.com.br" target="blank"><img src=".fontos_github_logo_transparente.png" width="320" alt="Fontos Logo" /></a>
+  <a href="https://www.fontos.com.br" target="blank"><img src="https://github.com/FontosSolucoes/FontosSolucoes/blob/17dc93622e6be9d528399f3c903a78b981cf710b/fontos_github_logo_transparente.png" width="320" alt="Fontos Logo" /></a>
 </p>
 
 
