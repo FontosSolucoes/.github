@@ -1,4 +1,9 @@
 
+<p align="center">
+  <a href="https://www.fontos.com.br" target="blank"><img src=".fontos_github_logo_transparente.png" width="320" alt="Fontos Logo" /></a>
+</p>
+
+
 <h1 align="left">Fontos Soluções</h1>
 
 <br>
